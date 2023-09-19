@@ -1,5 +1,7 @@
 # Cell Movement Tracking Project with ImageJ & Matlab
 
+![Centroid Position](https://github.com/namng1012/Cell-Movement-Tracking-Project-with-ImageJ-Matlab/blob/main/Input/Exp2/028%20DIC_T3_Z10.jpg?raw=true)
+
 ## Overview
 This project aims to facilitate the automatic combination of multi-slice two-dimensional (2D) images of cells. By utilizing these combined images, we can track the real-time movement of cells, providing insights and data crucial for numerous cellular studies.
 
